@@ -38,7 +38,7 @@ public class Main {
                 case 0:
                     System.exit(0);
                 default:
-                    System.out.println("lua chon khong hop le");
+                    System.out.println("khong hop le");
                     break;
             }
 
